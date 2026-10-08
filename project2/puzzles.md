@@ -18,6 +18,6 @@
 2. Monoalphabetic substitution — Decode — letters → keypad digits
    (C→0, E→3, R→4, I→5, S→6, F→7, U→8, N→9). Key deduced: C always
    isolated (word separator = 0); group lengths constrain the digits.
-3. Multi-tap Phone (SMS) — Decode
-4. Atbash — Decode
+3. Multi-tap Phone (SMS) — MLG ZOO GIVZHFIVH HROEVI ZMW TLOW NZGV
+4. Atbash — NOT ALL TREASURES SILVER AND GOLD MATE
 
