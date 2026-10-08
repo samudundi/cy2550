@@ -12,7 +12,7 @@
 
 # Puzzle 2 (dCode)
 
-**Plaintext:** <the Atbash result>
+**Plaintext:** NOT ALL TREASURES SILVER AND GOLD MATE
 
 1. Scytale (transposition) — Decrypt — 5 turns of the band, spaces kept
 2. Monoalphabetic substitution — Decode — letters → keypad digits
