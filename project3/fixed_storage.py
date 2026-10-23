@@ -11,4 +11,7 @@ def hash_password(password: str) -> str:
 def verify_password(password: str, stored_hash: str) -> bool:
     password_bytes = password.encode("utf-8")
     stored_hash_bytes = stored_hash.encode("utf-8")
-    return bcrypt.checkpw(password_bytes, stored_hash_bytes)
+    try:
+        return bcrypt.checkpw(password.encode("utf-8"), stored_hash.encode("utf-8"))
+    except ValueError:
+        return False
