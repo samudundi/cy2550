@@ -1,0 +1,8 @@
+hashes.txt
+*.pot
+cracked*.txt
+all_users.txt
+cracked_users.txt
+extra*.txt
+xato-*.txt
+__pycache__/
